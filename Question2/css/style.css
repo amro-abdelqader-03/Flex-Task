@@ -1,0 +1,28 @@
+.nav-bar{
+    display: flex;
+    border-top: 1px solid gray;
+    padding: 2px;
+}
+
+.nav-heading{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.circle {
+    width: 20px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
+    margin-right: auto;
+}
+
+.item{
+    padding: 14px 20px;
+}
