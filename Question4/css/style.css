@@ -1,0 +1,13 @@
+body {
+    background-color: purple;
+}
+
+.container {
+    display: flex;
+}
+
+.item {
+    background-color: white;
+    width: 200px;
+    border: 1px solid black;
+}
