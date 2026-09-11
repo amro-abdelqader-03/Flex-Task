@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    height: 400px;
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;
+}
+
+.item{
+    width: 100px;
+    height: 20px;
+    padding: 10px;
+    background-color:rgb(45, 11, 112);
+    color: white;
+    text-align: left;
+}
