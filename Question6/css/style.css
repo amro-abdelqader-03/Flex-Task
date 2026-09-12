@@ -30,6 +30,8 @@
 .item_4 {
     background-color:slategray;
     color: white;
+    flex-grow: 0.02;
+    text-align: center;
     
 }
 
@@ -37,6 +39,7 @@
     background-color: yellow;
     color: white;
     align-self: center;
+    flex-shrink: 0.01;
     font-size: 10px;
 }
 
