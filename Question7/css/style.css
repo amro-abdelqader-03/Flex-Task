@@ -1,0 +1,79 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    border-top: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid white;
+}
+
+.item_1 {
+    background-color: green;
+    color: white;
+    border-top: 1px solid gold;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_2 {
+    background-color: blue;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_3 {
+    background-color: purple;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_4 {
+    background-color:slategray;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_5 {
+    background-color: yellow;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_6 {
+    background-color: orange;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_7 {
+    background-color: red;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_8 {
+    background-color: grey;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_9 {
+    background-color:chartreuse;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+}
+
+.item_10 {
+    background-color: greenyellow;
+    color: white;
+    border-left: 1px solid gold;
+    border-right: 1px solid gold;
+    border-bottom: 1px solid gold;
+}
