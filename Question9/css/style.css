@@ -1,0 +1,98 @@
+.container {
+    display: flex;
+    border: 1px solid gold;
+    flex-direction: row;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    height: 100px;
+}
+
+.item_1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_2 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_3 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_4 {
+    background-color:slategray;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_5 {
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_6 {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_7 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_8 {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_9 {
+    background-color:chartreuse;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
+
+.item_10 {
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+    margin: 1px;
+    width: 70px;
+    height: 20px;
+}
