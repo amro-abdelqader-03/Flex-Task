@@ -1,13 +1,11 @@
-body {
-    background-color: purple;
-}
-
 .container {
     display: flex;
 }
 
 .item {
-    background-color: white;
+    background-color:darkslateblue;
     width: 200px;
-    border: 1px solid black;
+    border: 1px solid darkgreen;
+    color: white;
+    padding: 10px;
 }
