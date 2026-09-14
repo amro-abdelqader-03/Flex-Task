@@ -1,0 +1,27 @@
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.side{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-create{
+    margin-right: 10px;
+}
+
+.nav-user{
+    margin-left: 10px;
+}
+
+.nav-search{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 300px;
+    text-align: left;
+    padding: 10px;
+
+}
