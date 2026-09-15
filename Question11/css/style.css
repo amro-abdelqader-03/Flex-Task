@@ -49,3 +49,19 @@
 .item{
     margin-bottom: 50px;
 }
+
+.content-sec{
+    display: flex;
+    flex-direction: row;
+}
+
+.video-sec{
+    display: flex;
+    flex-direction: row;
+}
+
+.video{
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
