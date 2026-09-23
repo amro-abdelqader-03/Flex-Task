@@ -2,9 +2,9 @@
     display: flex;
     border: 1px solid gold;
     flex-direction: row;
-    justify-content:space-around;
+    gap: 5px;
     flex-wrap:wrap;
-    height: 100px;
+    height: 110px;
 }
 
 .item_1 {
